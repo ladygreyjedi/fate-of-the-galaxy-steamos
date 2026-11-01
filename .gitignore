@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+*.bak-*
+*.zip
+dist/
+.content-install/
+*receipt*.json
+*.pem
+*.key
+id_rsa*
+id_ed25519*
